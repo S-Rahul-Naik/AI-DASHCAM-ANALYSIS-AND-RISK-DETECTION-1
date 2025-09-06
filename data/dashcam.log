@@ -5159,3 +5159,110 @@
 2025-09-07 02:31:00,578 - src.webcam - INFO - Webcam capture stopped
 2025-09-07 02:31:00,578 - src.storage.recorder - INFO - Stopping video recorder
 2025-09-07 02:31:00,701 - src.webcam - INFO - Webcam capture stopped
+2025-09-07 02:43:51,800 - __main__ - INFO - Initializing AI Dashcam
+2025-09-07 02:43:51,805 - src.perception.detection - INFO - Initializing object detector with model: models/yolov8n.pt
+2025-09-07 02:43:51,941 - src.perception.detection - INFO - Object detection model loaded successfully
+2025-09-07 02:43:51,941 - src.perception.tracking - INFO - Object tracker initialized
+2025-09-07 02:43:51,941 - src.perception.lane_detection - INFO - Initializing lane detector with model: models/lane_detection.pt
+2025-09-07 02:43:51,943 - src.perception.lane_detection - ERROR - Failed to load lane detection model: invalid load key, '#'.
+2025-09-07 02:43:51,943 - src.perception.lane_detection - INFO - Falling back to classical computer vision approach
+2025-09-07 02:43:51,943 - src.risk_assessment.risk_analyzer - INFO - Initializing risk analyzer
+2025-09-07 02:43:51,944 - src.privacy.anonymizer - INFO - Initializing anonymizer (privacy protection disabled)
+2025-09-07 02:43:51,946 - src.storage.recorder - INFO - Video recorder initialized with output directory: data\recordings
+2025-09-07 02:43:51,947 - src.storage.recorder - INFO - Maximum storage size: 10 GB
+2025-09-07 02:43:51,947 - src.storage.recorder - INFO - Segment duration: 60 seconds
+2025-09-07 02:43:51,959 - src.storage.incident_manager - INFO - Incident database initialized
+2025-09-07 02:43:51,959 - src.storage.incident_manager - INFO - Incident manager initialized with data directory: data\incidents
+2025-09-07 02:43:51,959 - src.storage.incident_manager - INFO - Retention period: 30 days
+2025-09-07 02:43:51,966 - src.ui.speech_alert - INFO - Enhanced speech alert system initialized
+2025-09-07 02:43:52,085 - src.ui.display - INFO - Display initialized
+2025-09-07 02:43:52,087 - __main__ - INFO - Starting AI Dashcam
+2025-09-07 02:43:52,088 - src.webcam - INFO - Starting webcam capture (ID: 0, 1280x720 @ 30fps)
+2025-09-07 02:43:53,809 - src.storage.recorder - INFO - Starting video recorder
+2025-09-07 02:43:53,927 - src.storage.recorder - INFO - Started new video segment: recording_20250907_024353.mp4
+2025-09-07 02:44:02,975 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024402_899 to database
+2025-09-07 02:44:02,976 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024402_899 to disk
+2025-09-07 02:44:02,983 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024402_899
+2025-09-07 02:44:03,346 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024403_280 to database
+2025-09-07 02:44:03,348 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024403_280 to disk
+2025-09-07 02:44:03,348 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024403_280
+2025-09-07 02:44:03,711 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024403_648 to database
+2025-09-07 02:44:03,716 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024403_648 to disk
+2025-09-07 02:44:03,717 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024403_648
+2025-09-07 02:44:04,064 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024404_9 to database
+2025-09-07 02:44:04,084 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024404_9 to disk
+2025-09-07 02:44:04,090 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024404_9
+2025-09-07 02:44:04,758 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024404_698 to database
+2025-09-07 02:44:04,765 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024404_698 to disk
+2025-09-07 02:44:04,766 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024404_698
+2025-09-07 02:44:05,124 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024405_61 to database
+2025-09-07 02:44:05,141 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024405_61 to disk
+2025-09-07 02:44:05,152 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024405_61
+2025-09-07 02:44:05,505 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024405_436 to database
+2025-09-07 02:44:05,524 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024405_436 to disk
+2025-09-07 02:44:05,530 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024405_436
+2025-09-07 02:44:06,108 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024406_25 to database
+2025-09-07 02:44:06,131 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024406_25 to disk
+2025-09-07 02:44:06,133 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024406_25
+2025-09-07 02:44:06,459 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024406_397 to database
+2025-09-07 02:44:06,490 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024406_397 to disk
+2025-09-07 02:44:06,509 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024406_397
+2025-09-07 02:44:06,846 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024406_784 to database
+2025-09-07 02:44:06,858 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024406_784 to disk
+2025-09-07 02:44:06,858 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024406_784
+2025-09-07 02:44:07,200 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024407_140 to database
+2025-09-07 02:44:07,207 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024407_140 to disk
+2025-09-07 02:44:07,208 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024407_140
+2025-09-07 02:44:07,533 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024407_469 to database
+2025-09-07 02:44:07,539 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024407_469 to disk
+2025-09-07 02:44:07,540 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024407_469
+2025-09-07 02:44:07,932 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024407_873 to database
+2025-09-07 02:44:07,941 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024407_873 to disk
+2025-09-07 02:44:07,967 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024407_873
+2025-09-07 02:44:08,232 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024408_169 to database
+2025-09-07 02:44:08,233 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024408_169 to disk
+2025-09-07 02:44:08,233 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024408_169
+2025-09-07 02:44:08,699 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024408_641 to database
+2025-09-07 02:44:08,700 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024408_641 to disk
+2025-09-07 02:44:08,701 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024408_641
+2025-09-07 02:44:08,959 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024408_923 to database
+2025-09-07 02:44:08,960 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024408_923 to disk
+2025-09-07 02:44:08,964 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024408_923
+2025-09-07 02:44:09,223 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024409_174 to database
+2025-09-07 02:44:09,224 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024409_174 to disk
+2025-09-07 02:44:09,225 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024409_174
+2025-09-07 02:44:09,906 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024409_850 to database
+2025-09-07 02:44:09,910 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024409_850 to disk
+2025-09-07 02:44:09,915 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024409_850
+2025-09-07 02:44:10,172 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024410_133 to database
+2025-09-07 02:44:10,174 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024410_133 to disk
+2025-09-07 02:44:10,174 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024410_133
+2025-09-07 02:44:10,452 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024410_406 to database
+2025-09-07 02:44:10,456 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024410_406 to disk
+2025-09-07 02:44:10,458 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024410_406
+2025-09-07 02:44:10,960 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024410_916 to database
+2025-09-07 02:44:10,964 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024410_916 to disk
+2025-09-07 02:44:10,965 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024410_916
+2025-09-07 02:44:11,230 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024411_173 to database
+2025-09-07 02:44:11,230 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024411_173 to disk
+2025-09-07 02:44:11,231 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024411_173
+2025-09-07 02:44:11,672 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024411_632 to database
+2025-09-07 02:44:11,673 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024411_632 to disk
+2025-09-07 02:44:11,674 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024411_632
+2025-09-07 02:44:12,067 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024412_39 to database
+2025-09-07 02:44:12,068 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024412_39 to disk
+2025-09-07 02:44:12,072 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024412_39
+2025-09-07 02:44:12,312 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024412_259 to database
+2025-09-07 02:44:12,314 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024412_259 to disk
+2025-09-07 02:44:12,315 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024412_259
+2025-09-07 02:44:13,147 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024413_114 to database
+2025-09-07 02:44:13,148 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024413_114 to disk
+2025-09-07 02:44:13,148 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024413_114
+2025-09-07 02:44:13,365 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024413_334 to database
+2025-09-07 02:44:13,365 - src.storage.incident_manager - INFO - Saved incident incident_20250907_024413_334 to disk
+2025-09-07 02:44:13,365 - src.storage.incident_manager - INFO - Recorded new incident: incident_20250907_024413_334
+2025-09-07 02:44:38,790 - __main__ - INFO - Application interrupted by user
+2025-09-07 02:44:38,791 - __main__ - INFO - Stopping AI Dashcam
+2025-09-07 02:44:39,325 - src.webcam - INFO - Webcam capture stopped
+2025-09-07 02:44:39,326 - src.storage.recorder - INFO - Stopping video recorder
+2025-09-07 02:44:39,455 - src.webcam - INFO - Webcam capture stopped
