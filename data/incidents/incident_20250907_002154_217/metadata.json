@@ -1,0 +1,37 @@
+{
+  "incident_id": "incident_20250907_002154_217",
+  "timestamp": "2025-09-07T00:21:54.217796",
+  "risk_type": "lane_change",
+  "risk_score": 0.9499999999999998,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.2s",
+        "is_critical": true,
+        "timestamp": "2025-09-07T00:21:54.217796"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to right",
+        "explanation": "Car nearby making sudden lane change to the right. Be cautious.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T00:21:54.217796"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to right",
+        "explanation": "Car nearby making sudden lane change to the right. Be cautious.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T00:21:54.217796"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to right",
+        "explanation": "Car on left rapidly moving into your lane. Prepare to brake.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T00:21:54.217796"
+      }
+    ]
+  },
+  "hash": "01e928ca4bbfa0d4ef64d6e5fb8874340fb68e57042b927593eefd4ccb47ccd3",
+  "frame_count": 1
+}

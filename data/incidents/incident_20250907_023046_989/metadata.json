@@ -1,0 +1,49 @@
+{
+  "incident_id": "incident_20250907_023046_989",
+  "timestamp": "2025-09-07T02:30:46.989021",
+  "risk_type": "collision",
+  "risk_score": 1.0,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.1s",
+        "is_critical": true,
+        "timestamp": "2025-09-07T02:30:46.989021"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-07T02:30:46.989021"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-07T02:30:46.989021"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to left",
+        "explanation": "Car on right rapidly moving into your lane. Prepare to brake.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T02:30:46.989021"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to left",
+        "explanation": "Car on right rapidly moving into your lane. Prepare to brake.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T02:30:46.989021"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to left",
+        "explanation": "Car on right rapidly moving into your lane. Prepare to brake.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T02:30:46.989021"
+      }
+    ]
+  },
+  "hash": "1c53bb4c16323f64c81e07a4a09b588d986b0d8b860c52b3515a7b8e41877ab9",
+  "frame_count": 1
+}

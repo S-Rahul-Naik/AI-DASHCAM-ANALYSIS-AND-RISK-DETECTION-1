@@ -1,0 +1,24 @@
+{
+  "incident_id": "incident_20250906_215026_115",
+  "timestamp": "2025-09-06T21:50:26.114399",
+  "risk_type": "lane_departure",
+  "risk_score": 0.8384747137728868,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "WARNING: Approaching person",
+        "explanation": "Approaching person rapidly. Time to collision: 1.6 seconds.",
+        "is_critical": false,
+        "timestamp": "2025-09-06T21:50:25.904366"
+      },
+      {
+        "message": "WARNING: Approaching person",
+        "explanation": "Approaching person rapidly. Time to collision: 2.8 seconds.",
+        "is_critical": false,
+        "timestamp": "2025-09-06T21:50:25.904366"
+      },
+      {
+        "message": "CRITICAL: Lane departure to the left",
+        "explanation": "Vehicle is departing the lane to the left. Immediate correction needed.",
+        "is_critical": 

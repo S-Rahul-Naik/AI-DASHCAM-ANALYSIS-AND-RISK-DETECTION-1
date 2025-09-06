@@ -1,0 +1,19 @@
+{
+  "incident_id": "incident_20250907_002614_826",
+  "timestamp": "2025-09-07T00:26:14.826894",
+  "risk_type": "lane_change",
+  "risk_score": 0.9499999999999998,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "CAUTION: Car changing lanes to right",
+        "explanation": "Car on right making sudden lane change to the right. Be cautious.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T00:26:14.826894"
+      }
+    ]
+  },
+  "hash": "aa1dd204b1a01e30a35d80e756fbdcc5b59c890c3ec6fb8f527d0748af2619ce",
+  "frame_count": 1
+}

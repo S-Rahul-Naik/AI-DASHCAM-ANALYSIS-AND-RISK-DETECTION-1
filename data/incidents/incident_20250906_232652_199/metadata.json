@@ -1,0 +1,49 @@
+{
+  "incident_id": "incident_20250906_232652_199",
+  "timestamp": "2025-09-06T23:26:52.199182",
+  "risk_type": "collision",
+  "risk_score": 1.0,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:26:52.199182"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car close. Time to impact: 0.1s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:26:52.199182"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:26:52.199182"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to right",
+        "explanation": "Car on left rapidly moving into your lane. Prepare to brake.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:26:52.199182"
+      },
+      {
+        "message": "CAUTION: Truck changing lanes to right",
+        "explanation": "Truck on right making sudden lane change to the right. Be cautious.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:26:52.199182"
+      },
+      {
+        "message": "CAUTION: Car changing lanes to left",
+        "explanation": "Car on left making sudden lane change to the left. Be cautious.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:26:52.199182"
+      }
+    ]
+  },
+  "hash": "150d4492121ae0280d1ef6a7228b57fcd39d1f874052f88e8ef48d3362708261",
+  "frame_count": 1
+}

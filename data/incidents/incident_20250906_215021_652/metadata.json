@@ -1,0 +1,37 @@
+{
+  "incident_id": "incident_20250906_215021_652",
+  "timestamp": "2025-09-06T21:50:21.652813",
+  "risk_type": "lane_departure",
+  "risk_score": 1.0,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "CRITICAL: Collision risk with person",
+        "explanation": "Potential collision with person in 0.6 seconds. Immediate action required.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T21:50:21.446734"
+      },
+      {
+        "message": "CRITICAL: Collision risk with person",
+        "explanation": "Potential collision with person in 0.1 seconds. Immediate action required.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T21:50:21.446734"
+      },
+      {
+        "message": "WARNING: Approaching person",
+        "explanation": "Approaching person rapidly. Time to collision: 2.8 seconds.",
+        "is_critical": false,
+        "timestamp": "2025-09-06T21:50:21.446734"
+      },
+      {
+        "message": "CRITICAL: Lane departure to the right",
+        "explanation": "Vehicle is departing the lane to the right. Immediate correction needed.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T21:50:21.446734"
+      }
+    ]
+  },
+  "hash": "06b90aa7f3db8f7895254cffd18b32d875c21702da30ca133afbe549cfedae73",
+  "frame_count": 1
+}

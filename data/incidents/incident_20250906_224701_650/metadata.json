@@ -1,0 +1,37 @@
+{
+  "incident_id": "incident_20250906_224701_650",
+  "timestamp": "2025-09-06T22:47:01.650183",
+  "risk_type": "collision",
+  "risk_score": 0.9938483495705503,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:47:01.650183"
+      },
+      {
+        "message": "Caution: Vehicle ahead",
+        "explanation": "Car approaching. Prepare to brake. Time to potential impact: 0.6s",
+        "is_critical": false,
+        "timestamp": "2025-09-06T22:47:01.650183"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:47:01.650183"
+      },
+      {
+        "message": "Caution: Vehicle ahead",
+        "explanation": "Car approaching. Prepare to brake. Time to potential impact: 0.6s",
+        "is_critical": false,
+        "timestamp": "2025-09-06T22:47:01.650183"
+      }
+    ]
+  },
+  "hash": "7c5614da6c38f409bee3f9295bc2e97c54f844e61a674950c56db0ac327ae593",
+  "frame_count": 1
+}

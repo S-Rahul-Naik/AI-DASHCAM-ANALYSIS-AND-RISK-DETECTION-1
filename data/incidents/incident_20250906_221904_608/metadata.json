@@ -1,0 +1,30 @@
+{
+  "incident_id": "incident_20250906_221904_608",
+  "timestamp": "2025-09-06T22:19:04.607660",
+  "risk_type": "lane_departure",
+  "risk_score": 1.0,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "Steer left!",
+        "explanation": "Lane departure detected. Immediate correction needed to the left.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:19:04.363008"
+      },
+      {
+        "message": "Steer left!",
+        "explanation": "Lane departure detected. Immediate correction needed to the left.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:19:04.363008"
+      },
+      {
+        "message": "Steer left!",
+        "explanation": "Lane departure detected. Immediate correction needed to the left.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:19:04.363008"
+      },
+      {
+        "message": "Steer left!",
+        "explanation": "Lane departure detected. Immediate correction needed to the left.",
+        "is_critical": 

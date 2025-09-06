@@ -1,0 +1,19 @@
+{
+  "incident_id": "incident_20250907_002649_351",
+  "timestamp": "2025-09-07T00:26:49.351408",
+  "risk_type": "lane_change",
+  "risk_score": 0.9499999999596289,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "CAUTION: Bus changing lanes to right",
+        "explanation": "Bus on left rapidly moving into your lane. Prepare to brake.",
+        "is_critical": true,
+        "timestamp": "2025-09-07T00:26:49.351408"
+      }
+    ]
+  },
+  "hash": "7d4a2a767cfba0f7568b25e43da8bf2f74c04e8ff9cfe1852ec30f88487fcf32",
+  "frame_count": 1
+}

@@ -1,0 +1,19 @@
+{
+  "incident_id": "incident_20250906_231919_466",
+  "timestamp": "2025-09-06T23:19:19.466882",
+  "risk_type": "collision",
+  "risk_score": 1.0,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "BRAKE NOW! Person ahead",
+        "explanation": "Collision imminent! Person close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:19:19.466882"
+      }
+    ]
+  },
+  "hash": "00cea25d54538755402fb8e8ed15f8571d8617928d0c4ff8d017d7a825eda444",
+  "frame_count": 1
+}

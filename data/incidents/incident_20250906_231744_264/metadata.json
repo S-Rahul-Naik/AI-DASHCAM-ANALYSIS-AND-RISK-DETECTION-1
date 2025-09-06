@@ -1,0 +1,19 @@
+{
+  "incident_id": "incident_20250906_231744_264",
+  "timestamp": "2025-09-06T23:17:44.264346",
+  "risk_type": "collision",
+  "risk_score": 1.0,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Motorcycle very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T23:17:44.264346"
+      }
+    ]
+  },
+  "hash": "4dcf66fd53b9ca70989aa0a8d56d43e00b8ed1ff133c8dd9676797ce2cffffe3",
+  "frame_count": 1
+}

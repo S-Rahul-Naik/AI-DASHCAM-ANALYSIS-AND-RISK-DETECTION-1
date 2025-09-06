@@ -1,0 +1,49 @@
+{
+  "incident_id": "incident_20250906_224658_625",
+  "timestamp": "2025-09-06T22:46:58.625092",
+  "risk_type": "collision",
+  "risk_score": 0.9915833333333333,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "Caution: Vehicle ahead",
+        "explanation": "Car ahead. Prepare to brake. Time to potential impact: 0.0s",
+        "is_critical": false,
+        "timestamp": "2025-09-06T22:46:58.625092"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:46:58.625092"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:46:58.625092"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:46:58.625092"
+      },
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car very close. Time to impact: 0.0s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:46:58.625092"
+      },
+      {
+        "message": "Caution: Vehicle ahead",
+        "explanation": "Car approaching. Prepare to brake. Time to potential impact: 0.6s",
+        "is_critical": false,
+        "timestamp": "2025-09-06T22:46:58.625092"
+      }
+    ]
+  },
+  "hash": "d1589cd50b1c6e87b630c2cd398f9110249b2fbc7b4e1197c95b89aa96b75f89",
+  "frame_count": 1
+}

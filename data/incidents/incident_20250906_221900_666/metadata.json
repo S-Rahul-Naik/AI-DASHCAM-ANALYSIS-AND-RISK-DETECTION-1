@@ -1,0 +1,25 @@
+{
+  "incident_id": "incident_20250906_221900_666",
+  "timestamp": "2025-09-06T22:19:00.665560",
+  "risk_type": "lane_departure",
+  "risk_score": 1.0,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "BRAKE NOW! Vehicle ahead",
+        "explanation": "Collision imminent! Car 196 units ahead. Time to impact: 0.1s",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:19:00.408529"
+      },
+      {
+        "message": "Steer right!",
+        "explanation": "Lane departure detected. Immediate correction needed to the right.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T22:19:00.408529"
+      }
+    ]
+  },
+  "hash": "17b82870a5eebb9e5c7d2defd34fa6d3eda054cbf7d0965ee55d261a3e46ce1d",
+  "frame_count": 1
+}

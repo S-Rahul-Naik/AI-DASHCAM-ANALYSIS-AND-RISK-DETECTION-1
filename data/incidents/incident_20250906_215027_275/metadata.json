@@ -1,0 +1,25 @@
+{
+  "incident_id": "incident_20250906_215027_275",
+  "timestamp": "2025-09-06T21:50:27.275204",
+  "risk_type": "collision",
+  "risk_score": 0.884,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "CRITICAL: Collision risk with person",
+        "explanation": "Potential collision with person in 0.6 seconds. Immediate action required.",
+        "is_critical": true,
+        "timestamp": "2025-09-06T21:50:26.997173"
+      },
+      {
+        "message": "WARNING: Approaching person",
+        "explanation": "Approaching person rapidly. Time to collision: 1.6 seconds.",
+        "is_critical": false,
+        "timestamp": "2025-09-06T21:50:26.997173"
+      }
+    ]
+  },
+  "hash": "5fd46d8fe57b8186255a9add9e12b3b16ca7b2f86a56f1ab895d3986b1dc5b92",
+  "frame_count": 1
+}

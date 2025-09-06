@@ -1,0 +1,19 @@
+{
+  "incident_id": "incident_20250906_223136_882",
+  "timestamp": "2025-09-06T22:31:36.882572",
+  "risk_type": "collision",
+  "risk_score": 0.9795238095238095,
+  "location": null,
+  "metadata": {
+    "alerts": [
+      {
+        "message": "Steer right!",
+        "explanation": "Lane departure detected. Immediate correction needed to the right.",
+        "is_critical": "True",
+        "timestamp": "2025-09-06T22:31:36.882572"
+      }
+    ]
+  },
+  "hash": "9e8e916cdc12b9e3102a8ecfa3d7de1b9100a46355500e0afd1d4a6fc0c16ebe",
+  "frame_count": 1
+}
